@@ -1,4 +1,4 @@
-# Trabralho-e-Pens.-Computacional-Quadradol- 
+-Quadrado- 
 function setup() {
   createCanvas(800, 800);
    background("white");
